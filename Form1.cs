@@ -63,7 +63,6 @@ namespace Calculator
                         }else {
                             MessageBox.Show("Nie wolno dzielić przez zero");
                         }
-                        
                         break;
                     case "+":
                         result += number1;
